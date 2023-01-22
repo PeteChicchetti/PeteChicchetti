@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <a href="https://www.petechicchetti.com">
-    <img src="https://img.shields.io/badge/Chrome-lightgrey?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
