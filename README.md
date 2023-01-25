@@ -6,17 +6,17 @@
 
 
 <div id="badges">
-  <b><h2>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
+  <b><h2>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
     <ul>
       <li>
         <a href="https://www.linkedin.com/in/petechicchetti">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+        <img src="https://img.shields.io/badge/LinkedIn | PeteChicchetti-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
       <li>
         <a href="mailto:petechicchetti@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+        <img src="https://img.shields.io/badge/Gmail | petechicchetti@gmail.com-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
       <li>
         <a href="https://www.petechicchetti.com">
-        <img src="https://img.shields.io/badge/Portfolio-lightgrey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
+        <img src="https://img.shields.io/badge/Portfolio | www.petechicchetti.com-grey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
      <ul/>
 </div>
 
