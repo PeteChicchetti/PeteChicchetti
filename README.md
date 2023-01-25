@@ -1,4 +1,8 @@
-Hello! My name is Pete Chicchetti and I'm an aspiring web developer and a recent graduate of the UCF Full Stack Bootcamp. As someone who is detail oriented, passionate and enthusiastic, I take pride in every project. I enjoy learning new technologies and expanding my abilities with each challenge that I overcome.
+<h1>Hello! My name is Pete Chicchetti <iframe src="https://giphy.com/embed/kCMry3iScFtypKZXWn" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hand-fripon-rookip-kCMry3iScFtypKZXWn">via GIPHY</a></p>
+
+<br/>
+  
+I'm an aspiring web developer and a recent graduate of the UCF Full Stack Bootcamp. As someone who is detail oriented, passionate and enthusiastic, I take pride in every project. I enjoy learning new technologies and expanding my abilities with each challenge that I overcome.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/petechicchetti">
