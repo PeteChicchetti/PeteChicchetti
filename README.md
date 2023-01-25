@@ -1,6 +1,7 @@
 Hello! My name is Pete Chicchetti and I'm an aspiring web developer and a recent graduate of the UCF Full Stack Bootcamp. As someone who is detail oriented, passionate and enthusiastic, I take pride in every project. I enjoy learning new technologies and expanding my abilities with each challenge that I overcome.
 
 ![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
+
 ---
 
 ### Socials
@@ -16,6 +17,7 @@ Hello! My name is Pete Chicchetti and I'm an aspiring web developer and a recent
     <img src="https://img.shields.io/badge/Portfolio-lightgrey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+
 ---
 
 ### Technology & Tools
