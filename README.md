@@ -1,5 +1,4 @@
-[![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti)](https://github.com/PeteChicchetti/github-readme-stats)
-![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
 ---
 
 ### Socials
