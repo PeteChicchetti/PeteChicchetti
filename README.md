@@ -11,15 +11,12 @@
       <li>
         <a href="https://www.linkedin.com/in/petechicchetti">
         <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-      <li/>
       <li>
         <a href="mailto:petechicchetti@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-      <li/>
       <li>
         <a href="https://www.petechicchetti.com">
         <img src="https://img.shields.io/badge/Portfolio-lightgrey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
-      <li/>
      <ul/>
 </div>
 
