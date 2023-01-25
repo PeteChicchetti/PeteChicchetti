@@ -1,4 +1,4 @@
-![Petes GitHub stats](https://github-readme-stats.vercel.app/api?username=petechicchetti&show_icons=true&theme=transparent)
+[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeteChicchetti)](https://github.com/PeteChicchetti/github-readme-stats)
 
 ---
 
