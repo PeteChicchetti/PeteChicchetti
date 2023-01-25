@@ -7,15 +7,20 @@
 
 <div id="badges">
   <b><h2>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
-  <a href="https://www.linkedin.com/in/petechicchetti">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:petechicchetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-    <a href="https://www.petechicchetti.com">
-    <img src="https://img.shields.io/badge/Portfolio-lightgrey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+    <ul>
+      <li>
+        <a href="https://www.linkedin.com/in/petechicchetti">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+      <li/>
+      <li>
+        <a href="mailto:petechicchetti@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+      <li/>
+      <li>
+        <a href="https://www.petechicchetti.com">
+        <img src="https://img.shields.io/badge/Portfolio-lightgrey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
+      <li/>
+     <ul/>
 </div>
 
 ![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
