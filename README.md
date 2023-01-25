@@ -4,7 +4,9 @@
   
 <p>I'm an aspiring web developer and a recent graduate of the UCF Full Stack Bootcamp. As someone who is detail oriented, passionate and enthusiastic, I take pride in every project. I enjoy learning new technologies and expanding my abilities with each challenge that I overcome.</p>
 
+
 <div id="badges">
+  <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
   <a href="https://www.linkedin.com/in/petechicchetti">
     <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,7 +23,7 @@
 <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology and Tools</b>
-<br>
+<br/>
 
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
