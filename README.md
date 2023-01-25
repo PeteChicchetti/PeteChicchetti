@@ -1,8 +1,8 @@
-<h1>Hello! My name is Pete Chicchetti<h1> <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="35" height="35">
+<h1>Hello! My name is Pete Chicchetti <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="35" height="35"></h1>
 
 <br/>
   
-<p>I'm an aspiring web developer and a recent graduate of the UCF Full Stack Bootcamp. As someone who is detail oriented, passionate and enthusiastic, I take pride in every project. I enjoy learning new technologies and expanding my abilities with each challenge that I overcome.<p>
+<p>I'm an aspiring web developer and a recent graduate of the UCF Full Stack Bootcamp. As someone who is detail oriented, passionate and enthusiastic, I take pride in every project. I enjoy learning new technologies and expanding my abilities with each challenge that I overcome.</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/petechicchetti">
