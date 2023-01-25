@@ -1,4 +1,4 @@
-<h1>Hello! My name is Pete Chicchetti <img src="https://giphy.com/embed/kCMry3iScFtypKZXWn" width="35" height="35" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hand-fripon-rookip-kCMry3iScFtypKZXWn">
+<h1>Hello! My name is Pete Chicchetti <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="35" height="35">
 
 <br/>
   
