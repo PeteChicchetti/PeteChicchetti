@@ -5,13 +5,13 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/petechicchetti">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:petechicchetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <a href="https://www.petechicchetti.com">
-    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-lightgrey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
