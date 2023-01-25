@@ -6,7 +6,7 @@
 
 
 <div id="badges">
-  <b><h2>Let's Connect..!<h2/></b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+  <b><h2>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
   <br/>
   <a href="https://www.linkedin.com/in/petechicchetti">
     <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +19,6 @@
   </a>
 </div>
 
-<br/>
 
 ![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
 
