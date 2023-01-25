@@ -6,7 +6,8 @@
 
 
 <div id="badges">
-  <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+  <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+  <br/>
   <a href="https://www.linkedin.com/in/petechicchetti">
     <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,6 +18,8 @@
     <img src="https://img.shields.io/badge/Portfolio-lightgrey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+
+<br/>
 
 ![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
 
