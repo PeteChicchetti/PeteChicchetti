@@ -1,4 +1,4 @@
-<h1>Hello! My name is Pete Chicchetti <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="35" height="35">
+<h1>Hello! My name is Pete Chicchetti<h1> <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="35" height="35">
 
 <br/>
   
