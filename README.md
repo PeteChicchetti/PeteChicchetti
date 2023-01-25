@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Portfolio | www.petechicchetti.com-grey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
      <ul/>
 </div>
-
+<br/>
 ![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
 <br/>
 
