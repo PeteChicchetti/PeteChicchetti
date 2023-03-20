@@ -21,7 +21,7 @@
 </div>
 <br/>
     
-![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
+![Pete's GitHub stats](github-readme-stats-a7r5-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
 <br/>
 
 ## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology and Tools</b><h3/>
