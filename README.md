@@ -1,10 +1,3 @@
-<h1 align="center"><b>Hi, I'm Pete Chicchetti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<br/>
-  
-<p>I'm an aspiring web developer and a recent graduate of the UCF Full Stack Bootcamp. As someone who is detail oriented, passionate and enthusiastic, I take pride in every project. I enjoy learning new technologies and expanding my abilities with each challenge that I overcome.</p>
-
-
 <div id="badges">
   <b><h2>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
     <ul>
