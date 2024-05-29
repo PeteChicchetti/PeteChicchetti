@@ -1,22 +1,27 @@
-<p>
+<div id="badges">
+  <p>
       Hi, my name is Pete Chicchetti and I am a full stack web developer.
     <br/>
     <br/>
-  My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web design.
-</p>
-<b><h2>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/petechicchetti">
-    <img src="https://img.shields.io/badge/LinkedIn | PeteChicchetti-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <li>
-    <a href="mailto:petechicchetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail | petechicchetti@gmail.com-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-  <li>
-    <a href="https://www.petechicchetti.com">
-    <img src="https://img.shields.io/badge/Portfolio | www.petechicchetti.com-grey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
- <ul/>
-
+  My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central   Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web design.
+  </p>
+  <b><h2>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
+    <ul>
+      <li>
+        <a href="https://www.linkedin.com/in/petechicchetti">
+        <img src="https://img.shields.io/badge/LinkedIn | PeteChicchetti-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+      <li>
+        <a href="mailto:petechicchetti@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail | petechicchetti@gmail.com-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+      <li>
+        <a href="https://www.petechicchetti.com">
+        <img src="https://img.shields.io/badge/Portfolio | www.petechicchetti.com-grey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
+     <ul/>
+</div>
+<br/>
+    
+![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
+<br/>
 
 ## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology and Tools</b><h3/>
 <br/>
