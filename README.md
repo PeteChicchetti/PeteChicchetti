@@ -3,7 +3,7 @@
       Hi, my name is Pete Chicchetti and I am a full stack web developer.
     <br/>
     <br/>
-  My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central   Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web design.
+  My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central   Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web development.
   </p>
   <b><h2>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
     <ul>
