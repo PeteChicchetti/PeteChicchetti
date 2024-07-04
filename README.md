@@ -8,13 +8,13 @@
   <b><h2>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
     <ul>
       <li>
-        <a href="https://www.linkedin.com/in/petechicchetti" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/petechicchetti" target="blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn | PeteChicchetti-blue?social&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
       <li>
         <a href="mailto:petechicchetti@gmail.com">
         <img src="https://img.shields.io/badge/Gmail | petechicchetti@gmail.com-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
       <li>
-        <a href="http://www.petechicchetti.com" target="_blank" rel="noopener noreferrer">
+        <a href="http://www.petechicchetti.com" target="blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio | www.petechicchetti.com-grey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
      <ul/>
 </div>
