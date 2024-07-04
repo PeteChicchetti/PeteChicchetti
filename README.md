@@ -14,7 +14,7 @@
         <a href="mailto:petechicchetti@gmail.com">
         <img src="https://img.shields.io/badge/Gmail | petechicchetti@gmail.com-red?social&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
       <li>
-        <a href="https://www.petechicchetti.com">
+        <a href="http://www.petechicchetti.com">
         <img src="https://img.shields.io/badge/Portfolio | www.petechicchetti.com-grey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
      <ul/>
 </div>
