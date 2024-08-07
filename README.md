@@ -1,11 +1,21 @@
+<h1>Hi, I'm Pete 👋</h1>
+
+<p>My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web development.</p>
+
+<!--
+<h2>Who Am I?</h2>
+- 📫 Email me at **petechicchetti@gmail.com**
+
+- 🌐 Check out my portfolio at [petechicchetti.com](http://www.petechicchetti.com)
+
+- 🌐 Reach me on LinkedIn  [in/petechicchetti]([https://www.petechicchetti.com](https://www.linkedin.com/in/petechicchetti/))
+
+- 
+-->
+
+
 <div id="badges">
-  <p>
-      Hi, my name is Pete Chicchetti and I am a full stack web developer.
-    <br/>
-    <br/>
-  My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central   Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web development.
-  </p>
-  <b><h2>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h2/>
+  <h3>Let's Connect!<h3/>
     <ul>
       <li>
         <a href="https://www.linkedin.com/in/petechicchetti" target="_blank" rel="noopener noreferrer">
@@ -19,13 +29,12 @@
      <ul/>
 </div>
 <br/>
-    
-![Pete's GitHub stats](https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent)
-<br/>
 
-## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology and Tools</b><h3/>
+<!--
+<img src=https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent />
 <br/>
-
+-->
+<h3>Technology and Tools<h3/>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
