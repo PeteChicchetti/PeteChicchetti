@@ -1,18 +1,13 @@
 <h1>Hi, I'm Pete 👋</h1>
 
-<p>My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web development.</p>
+<p>I am a certified Full Stack Web Developer with a passion for technology and continuous learning.</p>
 
----
-<!--
-<h2>Who Am I?</h2>
-- 📫 Email me at **petechicchetti@gmail.com**
+- Full Stack Javascript (MERN)
 
-- 🌐 Check out my portfolio at [petechicchetti.com](http://www.petechicchetti.com)
+- MySQL, MongoDB, GraphQL
 
-- 🌐 Reach me on LinkedIn  [in/petechicchetti]([https://www.petechicchetti.com](https://www.linkedin.com/in/petechicchetti/))
+- Experience with Wordpress
 
-- 
--->
 
 
 <div id="badges">
