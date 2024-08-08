@@ -2,6 +2,7 @@
 
 <p>My path to becoming a web developer began in 2022 when I discovered a passion for coding. Shortly after, I joined the "Full-Stack Coding Bootcamp" by edX, offered through the University of Central Florida, where I received my initial certification. My interest in computers, problem-solving skills, and creative mindset quickly fueled my enthusiasm for web development.</p>
 
+---
 <!--
 <h2>Who Am I?</h2>
 - 📫 Email me at **petechicchetti@gmail.com**
@@ -15,7 +16,10 @@
 
 
 <div id="badges">
-  <h3>Let's Connect!<h3/>
+  <h2>Connect with me:<h2/>
+    - 🤝 Let's get in touch! Connect with me on LinkedIn or send me an email!
+    <br/>
+    <br/>
     <ul>
       <li>
         <a href="https://www.linkedin.com/in/petechicchetti" target="_blank" rel="noopener noreferrer">
@@ -28,7 +32,7 @@
         <img src="https://img.shields.io/badge/Portfolio | www.petechicchetti.com-grey?social&logo=GoogleChrome&logoColor=white" alt="Portfolio Badge"/></a>
      <ul/>
 </div>
-<br/>
+
 
 <!--
 <img src=https://github-readme-stats-petechicchetti.vercel.app/api?username=PeteChicchetti&show_icons=true&theme=transparent />
