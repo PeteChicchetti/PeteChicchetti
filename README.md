@@ -1,12 +1,12 @@
 <h1>Hi, I'm Pete 👋</h1>
 
-<p>I am a certified Full Stack Web Developer with a passion for technology and continuous learning.</p>
+- Certified Full Stack Web Developer with a passion for technology and continuous learning.
 
-- Full Stack Javascript (MERN)
+- I develop full stack applications using both Vanilla JavaScript and the MERN Stack.
 
-- MySQL, MongoDB, GraphQL
+- Proficient in MySQL, MongoDB, GraphQL.
 
-- Experience with Wordpress
+- Experience with WordPress.
 
 
 
